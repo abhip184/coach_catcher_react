@@ -7,7 +7,6 @@ import Spinner from "./components/@vuexy/spinner/Loading-spinner"
 import knowledgeBaseCategory from "./views/pages/knowledge-base/Category"
 import knowledgeBaseQuestion from "./views/pages/knowledge-base/Questions"
 import { ContextLayout } from "./utility/context/Layout"
-import { Home } from "react-feather"
 
 // Route-based code splitting
 const analyticsDashboard = lazy(() =>
